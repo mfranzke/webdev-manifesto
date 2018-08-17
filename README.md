@@ -1,2 +1,2 @@
-# webdev-manifesto
-WebDev Manifesto
+# WebDev Manifesto
+*Work in progress*
