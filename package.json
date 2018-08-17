@@ -1,0 +1,24 @@
+{
+  "name": "webdev-manifesto",
+  "version": "0.0.1",
+  "description": "TBD",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mfranzke/webdev-manifesto.git"
+  },
+  "author": "Maximilian Franzke",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "WebDev",
+    "Web Development",
+    "Manifesto"
+  ],
+  "bugs": {
+    "url": "https://github.com/mfranzke/webdev-manifesto/issues"
+  },
+  "homepage": "https://github.com/mfranzke/webdev-manifesto",
+  "dependencies": {},
+  "devDependencies": {}
+}
