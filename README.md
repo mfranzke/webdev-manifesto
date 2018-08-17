@@ -1,0 +1,2 @@
+# webdev-manifesto
+WebDev Manifesto
