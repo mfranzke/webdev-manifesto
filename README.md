@@ -1,4 +1,4 @@
-# WebDev Manifesto
+# Web Development Manifesto
 *Work in progress*
 
 ## Intro
